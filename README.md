@@ -8,7 +8,7 @@
 - TARGET             : Men
 - PROJECT LINK       : https://mrhandsome.my.canva.site
 - PROJECT VIDEO LINK : https://youtu.be/s16neUR5uGo
-- 
+
 # Team Members
 - TEAM LEAD          : SRI M              (NMID: )
 - TEAM MEMBER 1      : MIDHUN V S         (NMID: 7C626A965F73F7E95954D35153A8C5F8)
