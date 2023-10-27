@@ -1,6 +1,6 @@
 # Naan-Mudhalvan--Digital-Marketing
 
-[![MasterHead](https://media.tenor.com/OiB1gkwl37wAAAAC/digital-marketing-noida-seo.gif)
+<img alt="Digital Marketing" width="100%" src="https://media.tenor.com/OiB1gkwl37wAAAAC/digital-marketing-noida-seo.gif">
 
 # Project Details
 - PROJECT TITLE      : BUILDING A WEBSITE USING CANVA
