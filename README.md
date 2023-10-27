@@ -10,7 +10,7 @@
 - PROJECT VIDEO LINK : https://youtu.be/s16neUR5uGo
 
 # Team Members
-- TEAM LEAD          : SRI M              (NMID: )
+- TEAM LEAD          : SRI M              (NMID: 928C50AEF88A0A5900E4EEF399336943)
 - TEAM MEMBER 1      : MIDHUN V S         (NMID: 7C626A965F73F7E95954D35153A8C5F8)
 - TEAM MEMBER 2      : PARANITHARAN V     (NMID: )
 - TEAM MEMBER 3      : PONDURAI M         (NMID: )
