@@ -2,7 +2,6 @@
 
 # Project Details
 - PROJECT TITLE      : BUILDING A WEBSITE USING CANVA
-- CATEGORY           : DIGITAL MARKETING
 - BRAND              : Mr.HANDSOME
 - TARGET             : Men
 - PROJECT LINK       : https://mrhandsome.my.canva.site
