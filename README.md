@@ -15,7 +15,7 @@
 - TEAM MEMBER 2      : PARANITHARAN V     (NMID: 5AF9AE87A4155D7A4D24C60E8914A6DA)
 - TEAM MEMBER 3      : PONDURAI M         (NMID: 0640EDA34E3A904A1584E9A4D5797CC3)
 
-# PROJECT DESCRIPTION: 
+# Project Description: 
 In this project, we aim to create a dynamic and user-friendly website using the Canva platform. Our goal is to design an appealing and responsive website that not only showcases compelling content but also offers a seamless user experience. We will customize the theme, configure essential plugins, optimize for SEO, and implement a user-friendly content management system, enabling effortless content creation and management. This Website will serve as a platform to share valuable information, engage with the audience, and establish an online presence effectively.
 
 # Project Video
