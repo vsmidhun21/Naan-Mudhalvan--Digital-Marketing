@@ -8,6 +8,7 @@
 - TARGET             : Men
 - PROJECT LINK       : https://mrhandsome.my.canva.site
 - PROJECT VIDEO LINK : https://youtu.be/s16neUR5uGo
+- WEBSITE LINK       : https://mrhandsome.my.canva.site
 
 # Team ID
 - ID : NM2023TMID04783
