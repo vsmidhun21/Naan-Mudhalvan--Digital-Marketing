@@ -6,9 +6,9 @@
 - PROJECT TITLE      : BUILDING A WEBSITE USING CANVA
 - BRAND              : Mr.HANDSOME
 - TARGET             : Men
-- PROJECT LINK       : https://mrhandsome.my.canva.site
+- PROJECT SITE LINK  : https://mrhandsome.my.canva.site
 - PROJECT VIDEO LINK : https://youtu.be/s16neUR5uGo
-- WEBSITE LINK       : https://mrhandsome.my.canva.site
+
 
 # Team ID
 - ID : NM2023TMID04783
